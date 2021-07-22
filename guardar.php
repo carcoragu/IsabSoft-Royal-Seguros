@@ -1,5 +1,5 @@
 ﻿<?php
-$fi=fopen("archivo.txt","a")
+$fi=fopen("C:\AppServ\www\html\archivo.txt","a")
 or die("problemas al crear archivo");
 
 fwrite($fi,$_POST['nombre'].",");
