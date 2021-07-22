@@ -1,0 +1,78 @@
+JOSEFINA MARIO,FORD EXPLORER,COBER VIP SUPERIOR,-----------------------
+
+car,BB,excelnete,-----------------------
+
+ESTEBAN VERA,CHEVROLET S10,COBERTURA INMEDIATA,-----------------------
+
+MIRIAN VERA,JEEP,COBERTURA INMEDIATA,-----------------------
+
+ANACLETO AMADEO,BM X6,COBERTURA INMEDIATA,-----------------------
+
+AMANCIO GONZALEZ,CHEVROLET CAMARO,PLAN VIP,-----------------------
+
+FEDERICO NUNEZ,FORD MAVERIC,PLAN BASICO,-----------------------
+
+Mariano Mariano gomes,Toyota hilux,,-----------------------
+
+Mariano Mariano gomes,Toyota hilux,Cobertura,-----------------------
+
+Amancio duarte,Toyota premio,Cobertura,-----------------------
+
+Eladio Vera barrientos,Toyota hilux,Cobertura,-----------------------
+
+Mirian Isa el,Toyota hilux,Cobertura,-----------------------
+
+JOSELO ANASTACIO MENSEZ,Toyota yaris,Cobertura,-----------------------
+
+ASEGURADO CLIENTE,Toyota hilux surf,Cobertura,-----------------------
+
+Francisco Rojas Rojas,Toyota hilux azul,Cobertura,-----------------------
+
+José José dyarte,Toyota corsa negro,Cobertura,-----------------------
+
+JOSÉ JOSÉ DUATTE,Toyota corsa azul,Cobertura,-----------------------
+
+Mamadeo mamadeo,Volkswagen ,Cobertura,-----------------------
+
+Amancio duarteAma ,Toyota hilux surf,Cobertura,-----------------------
+
+Carlos Ageipino,Cheveolet,Cotizar ,-----------------------
+
+Carlos José Antonio,Kia sorento,Cotizar ,-----------------------
+
+Cesar Amafo g.,Toyota hilux azul,Cobertura,-----------------------
+
+Cesar Antonio,Toyota premio,Cobertura,-----------------------
+
+Carlos javier,Toyota corsa,Cobertura,-----------------------
+
+Mariano Mariano gomes,Checeolet camaro,Cobertura,-----------------------
+
+Prueba uno,Marchó ,Cobertura,-----------------------
+
+Prueba dos,Prueba dos,Cobertura,-----------------------
+
+Fidencio gomez,Fusca,Cobertura,-----------------------
+
+Carlos,Toyota corsa,Cobertura,-----------------------
+
+Cesar Augusto,Toyota hilux roko,Cobertura,-----------------------
+
+Felipe Augusto,Toyota jaros,Coner,-----------------------
+
+Amancio duarte gimenes,Toyota corsa,Cobertura,-----------------------
+
+Felipe Augusto anastacio,Toyota jaroskaja,Coner,-----------------------
+
+Teléfono Mirian ,Toyota jaros,Coner,-----------------------
+
+Foco,Asubto,Cobertura,-----------------------
+
+Prueba formulatio,Toyota corsa,Cobertura,-----------------------
+
+felipao,asunto xx,ddd,-----------------------
+
+,,,-----------------------
+
+felipao,asunto xx,ddd,-----------------------
+
